@@ -5,3 +5,5 @@
 [Drawing with an image on an infinite canvas 3D on Babylon.js (Version 1 - Gizmos image) | Babylon.js Playground](https://playground.babylonjs.com/#SOWPZB#2)
 
 [Drawing with an image on an infinite canvas 3D on Babylon.js (Version 2-Painting with the picture as if it were a brush) | Babylon.js Playground](https://playground.babylonjs.com/#O7DH2N)
+
+[Drawing with an image on an infinite canvas 3D on Babylon.js (Version 3 - Ocean of floating gizmos XZ version) | Babylon.js Playground](https://playground.babylonjs.com/#BXCV2Z)
