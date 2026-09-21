@@ -11,3 +11,5 @@
 [Drawing with an image on an infinite canvas 3D on Babylon.js (Version 4 - Ocean of floating gizmos XZ random rotated) | Babylon.js Playground](https://playground.babylonjs.com/#AQ2BT9)
 
 [Drawing with an image on an infinite canvas 3D on Babylon.js (Version 5 - Ocean of floating gizmos XZ random autorotate) | Babylon.js Playground](https://playground.babylonjs.com/#ZP2HUV#1)
+
+[Drawing with an image on an infinite canvas 3D on Babylon.js(Version 6-Multiply of floating gizmos XZ random autorotate) | Babylon.js Playground](https://playground.babylonjs.com/#EX8YZC)
