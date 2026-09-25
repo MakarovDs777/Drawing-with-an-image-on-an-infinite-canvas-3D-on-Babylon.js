@@ -17,3 +17,5 @@
 [Drawing with an image on an infinite canvas 3D on Babylon.js (Version 7 - Multiply of fixed gizmos XZ random autorotate) | Babylon.js Playground](https://playground.babylonjs.com/#8GALX1)
 
 [Drawing with an image on an infinite canvas 3D on Babylon.js (Version 8 - An invisible waterfall of images LZW) | Babylon.js Playground](https://playground.babylonjs.com/#19H6IR)
+
+[Drawing with on an infinite canvas 3D on Babylon.js (Version 9 - An invisible waterfall with changing sets of images) | Babylon.js Playground](https://playground.babylonjs.com/#S5Z055)
