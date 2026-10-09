@@ -23,3 +23,5 @@
 [Drawing with on an infinite canvas 3D on Babylon.js (Version 10 - An invisible waterfall with changing of images) | Babylon.js Playground](https://playground.babylonjs.com/#LORZ0Q)
 
 [Drawing with an image on an infinite canvas 3D on Babylon.js(Version 11 - The image is drawn in pixels blocks on canvas) | Babylon.js Playground](https://playground.babylonjs.com/#47YSSB)
+
+[Drawing with an image on an infinite canvas 3D on Babylon.js (Version 12 - Drawing with a brush by rearranging pixels) | Babylon.js Playground](https://playground.babylonjs.com/#QH49S4)
